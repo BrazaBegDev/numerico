@@ -24,3 +24,5 @@ int main() {
 
     printf("A raiz aproximada e: %.3f, apos %d iteracoes", c, k);
 }
+
+//comentario
